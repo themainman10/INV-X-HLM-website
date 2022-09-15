@@ -63,23 +63,23 @@ ul{
 }
 
 .header-img{
-    width: 20%;
-    margin-left: 10%;
+    width: 100%;
+   
 }
 
 .headliner-text{
-    text-align: center;
-    float: left;
+
     overflow-wrap:break-word
 }
 
 .headliner-text-p{
-    text-align: center;
-    float: left;
     overflow-wrap:break-word;
-    margin-right: 10%;
 }
 
 .main-header-section {
  background-color: #18224F;
+}
+
+.main-header-section-1{
+    
 }
